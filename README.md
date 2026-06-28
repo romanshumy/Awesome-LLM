@@ -610,6 +610,7 @@
 - [EasyEdit](https://github.com/zjunlp/EasyEdit) - An easy-to-use framework to edit large language models.
 - [chatgpt-shroud](https://github.com/guyShilo/chatgpt-shroud) - A Chrome extension for OpenAI's ChatGPT, enhancing user privacy by enabling easy hiding and unhiding of chat history. Ideal for privacy during screen shares.
 - [AI For Developers](https://aifordevelopers.org) - List of AI Tools and Agents for Developers
+- [Model Price Watch](https://modelpricewatch.com) - Live, source-linked pricing for 150+ LLM APIs across 24 providers; every price links to the provider's official page. Free CORS-open JSON API.
 
 ## Contributing
 
