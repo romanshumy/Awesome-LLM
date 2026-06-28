@@ -598,6 +598,7 @@
 ## Miscellaneous
 
 
+- [ModelPriceWatch](https://modelpricewatch.com/?utm_source=awesome-llm&utm_medium=readme&utm_campaign=awesome-llm) - Live pricing tracker for 150+ LLM APIs across 24 providers; auto-updates input/output $/Mtok so the numbers never go stale.
 - [Emergent Mind](https://www.emergentmind.com) - The latest AI news, curated & explained by GPT-4.
 - [ShareGPT](https://sharegpt.com) - Share your wildest ChatGPT conversations with one click.
 - [Major LLMs + Data Availability](https://docs.google.com/spreadsheets/d/1bmpDdLZxvTCleLGVPgzoMTQ0iDP2-7v7QziPrzPdHyM/edit#gid=0)
